@@ -1,0 +1,41 @@
+<h1>Samsung Interview Test Address Book</h1>
+
+<table>
+    <thead>
+        <tr class="table-layout">
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Email Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @for(user of users; track user.id) {
+            <tr class="table-layout" (click)="selectUser(user)">
+                <td>{{user.firstName}}</td>
+                <td>{{user.lastName}}</td>
+                <td>{{user.email}}</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<dialog #dialog class="address-dialog">
+    <div class="dialog-container" (appClickOutside)="closeDialog()">
+        <h4>{{selectedUser?.firstName}} {{selectedUser?.lastName}} Address Details</h4>
+
+        @if(selectedUser?.address) {
+            <div class="user-address-container">
+                <p>Street: {{selectedUser?.address?.street}}</p>
+                <p>City: {{selectedUser?.address?.city}}</p>
+                <p>Country: {{selectedUser?.address?.country}}</p>
+                <p>ZipCode: {{selectedUser?.address?.zipCode}}</p>
+            </div>
+        } @else {
+            <p>This user doesn't have an address.</p>
+        }
+
+        <div class="dialog-buttons-container">
+            <button (click)="closeDialog()">Close</button>
+        </div>
+    </div>
+</dialog>

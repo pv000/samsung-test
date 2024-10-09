@@ -1,0 +1,16 @@
+C:\Users\User\Documents\vs repos\samsung-test\api\SamsungApiExample\SamsungApiExample.BLL\bin\Debug\net8.0\SamsungApiExample.BLL.deps.json
+C:\Users\User\Documents\vs repos\samsung-test\api\SamsungApiExample\SamsungApiExample.BLL\bin\Debug\net8.0\SamsungApiExample.BLL.dll
+C:\Users\User\Documents\vs repos\samsung-test\api\SamsungApiExample\SamsungApiExample.BLL\bin\Debug\net8.0\SamsungApiExample.BLL.pdb
+C:\Users\User\Documents\vs repos\samsung-test\api\SamsungApiExample\SamsungApiExample.BLL\bin\Debug\net8.0\SamsungApiExample.DAL.dll
+C:\Users\User\Documents\vs repos\samsung-test\api\SamsungApiExample\SamsungApiExample.BLL\bin\Debug\net8.0\SamsungApiExample.DAL.pdb
+C:\Users\User\Documents\vs repos\samsung-test\api\SamsungApiExample\SamsungApiExample.BLL\obj\Debug\net8.0\SamsungApiExample.BLL.csproj.AssemblyReference.cache
+C:\Users\User\Documents\vs repos\samsung-test\api\SamsungApiExample\SamsungApiExample.BLL\obj\Debug\net8.0\SamsungApiExample.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\vs repos\samsung-test\api\SamsungApiExample\SamsungApiExample.BLL\obj\Debug\net8.0\SamsungApiExample.BLL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\vs repos\samsung-test\api\SamsungApiExample\SamsungApiExample.BLL\obj\Debug\net8.0\SamsungApiExample.BLL.AssemblyInfo.cs
+C:\Users\User\Documents\vs repos\samsung-test\api\SamsungApiExample\SamsungApiExample.BLL\obj\Debug\net8.0\SamsungApiExample.BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\vs repos\samsung-test\api\SamsungApiExample\SamsungApiExample.BLL\obj\Debug\net8.0\SamsungApiExample.BLL.sourcelink.json
+C:\Users\User\Documents\vs repos\samsung-test\api\SamsungApiExample\SamsungApiExample.BLL\obj\Debug\net8.0\SamsungA.2E09A590.Up2Date
+C:\Users\User\Documents\vs repos\samsung-test\api\SamsungApiExample\SamsungApiExample.BLL\obj\Debug\net8.0\SamsungApiExample.BLL.dll
+C:\Users\User\Documents\vs repos\samsung-test\api\SamsungApiExample\SamsungApiExample.BLL\obj\Debug\net8.0\refint\SamsungApiExample.BLL.dll
+C:\Users\User\Documents\vs repos\samsung-test\api\SamsungApiExample\SamsungApiExample.BLL\obj\Debug\net8.0\SamsungApiExample.BLL.pdb
+C:\Users\User\Documents\vs repos\samsung-test\api\SamsungApiExample\SamsungApiExample.BLL\obj\Debug\net8.0\ref\SamsungApiExample.BLL.dll

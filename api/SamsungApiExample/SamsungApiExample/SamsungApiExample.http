@@ -1,0 +1,6 @@
+@SamsungApiExample_HostAddress = http://localhost:5079
+
+GET {{SamsungApiExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
